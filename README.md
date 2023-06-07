@@ -14,6 +14,12 @@ Environmental consulting firm with 7 locations and 200+ employees across the Mid
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
 <br><br>
 
+**Owner/Operator** @ [Dustin and Bree Photos](http://dustinandbree.com/) _(May 2017 - Present)_ <br>
+Photography company with a focus on weddings, families, and couples.
+  - Designed the [website](https://dustinandbree.com/).
+  - Maintains locally hosted multi-terrabyte file storage for production use.
+    <br><br>
+
 **IT Manager** @ [Traders Point Christian Church](https://tpcc.org/) _(June 2017 - Feb 2023)_ <br>
 Multi-campus non-denominational church with 7 campus buildings across the Indianapolis metro area.
   - Founding member of BRYTER's design system team and continued to provide support and extend the component library
@@ -22,17 +28,7 @@ Multi-campus non-denominational church with 7 campus buildings across the Indian
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
+
 
 **Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
 Professional chauffeur service available in over 300 cities worldwide.
