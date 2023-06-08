@@ -8,27 +8,19 @@ _Computer person with UX and design interest based in Indianapolis, IN_ <br>
 
 **IT Manager** @ [August Mack Environmental Inc.](https://augustmack.com/) _(Feb 2023 - Present)_ <br>
 Environmental consulting firm with 7 locations and 200+ employees across the Midwest and Northeast USA.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Powershell, Azure AD, VPN, 
+  - Built tech support structure.
+  - Designed improved machine deployment solution for remote workers using Microsoft Intune.
+  - Provided premiere support to local and remote users accessing ERP system.
+  - **_Technologies used:_** Powershell, Azure AD, VPN, Microsoft Intune, 
 <br><br>
 
 **IT Manager** @ [Traders Point Christian Church](https://tpcc.org/) _(June 2017 - Feb 2023)_ <br>
 Multi-campus non-denominational church with 7 campus buildings across the Indianapolis metro area.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+  - Led digital innovation initiative to replace tech stack.
+  - Process engineered business outcomes with technical capabilities.
+  - Built, supported, and documented systems for 200+ staff members. 
+  - **_Technologies used:_** Office 365, Powershell, Azure AD, MDM, macOS/Windwos, Windows Server, Sharepoint/Onedrive, Atlassian Jira.
 <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
 
 
 ## 📌 Project Successes
@@ -97,8 +89,7 @@ Showcasing custom keyboard builds.
 
 
 ##  Homelab Projects
-
-_This section is to showcase some of the ~~money i've wasted~~ work I've done in my personal homelab._
+_This section is to showcase some of the ~~money i've wasted~~ work I've done in my personal [homelab](https://www.reddit.com/r/homelab)._
 
 **TrueNAS Server** 
 - Maintains Plex library of ~7 TB.
@@ -106,14 +97,15 @@ _This section is to showcase some of the ~~money i've wasted~~ work I've done in
 - API integration for automatic backups to Backblaze B2.
 
 **pfSense**
-- Tailscale integration.
+- Tailscale integration for remote access.
 - QoS configuration.
 
 **Docker**
-- **Portainter**
-  - **Unifi Controller**
-  - **Homer Dashobard**
-  - **pihole**
-
-**Proxmox**
-- **HomeAssistant**
+-  **Portainter**
+    - GUI for Docker containers. 
+-  **Unifi Controller**
+    - Wifi analytics and control. 
+-  **Homer Dashobard**
+    -  Custom dashboard for homelab.
+- **pihole**
+    - Network-wide adblocking and custom DNS. 
