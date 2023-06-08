@@ -25,7 +25,7 @@ Multi-campus non-denominational church with 7 campus buildings across the Indian
 
 ## 📌 Project Successes
 
-**Mobile Device Management (MDM) Rollout** using [Kandji](https://kandji.io/) _(March 2020 - Feb 2023)_<br>
+**Mobile Device Management (MDM) Rollout** using [Kandji](https://kandji.io/) _(March 2020 - June 2022)_<br>
 Managed device configurations and updates in a 75% Apple device environment
   - Configured Apple DEP and Business Manager
   - Built and rolled out organizational standard machine including scripting printer install
@@ -41,7 +41,7 @@ Migrated locally hosted file server for staff data to cloud provider
   - **_Technologies used:_** Powershell, Sharepoint, Active Directory
   <br><br>
 
-**Podcast Publishing Migration** @ [Traders Point Christian Church](https://tpcc.org/) _(Jul 2019 - Dec 2021)_ <br>
+**Podcast Publishing Migration** @ [Traders Point Christian Church](https://tpcc.org/) _(March 2021 - July 2022)_ <br>
 Migrated hosting solution from AWS S3 to Captivate Podcasts
   - Self-taught RSS feed editing
   - Led project plan and cutover
@@ -53,25 +53,25 @@ Migrated hosting solution from AWS S3 to Captivate Podcasts
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Arts** in Information Technology Management<br>
-[Cedarville University](https://www.cedarville.edu/) - Cedarville, Ohio _(Aug 2014 - May 2017)_ <br>
+[Cedarville University](https://www.cedarville.edu/) - Cedarville, OH _(Aug 2014 - May 2017)_ <br>
 
 **60 Credit Hours** in Computer Science<br>
-[Delaware County Community College](https://www.dccc.edu/) - Downingtown, Pennsylvania _(2012 - 2014)_
+[Delaware County Community College](https://www.dccc.edu/) - Downingtown, PA _(2012 - 2014)_
 
 **IT Leadership Residency Program** focused providing experience to young leaders<br>
-[Traders Point Leadership Residency](https://tpcc.org/leadership-residents) - Whitestown, Indiana _(2017 - 2018)_
+[Traders Point Leadership Residency](https://tpcc.org/leadership-residents) - Whitestown, IN _(2017 - 2018)_
  <br><br>
 
 ## 🏆 Certifications
 
-**Apple Certified Support Professional Certification** @ [Apple Training](https://training.apple.com/it) _(Expected July 2023)_ <br>
+**Apple Certified Support Professional** @ [Apple Training](https://training.apple.com/it) _(Expected July 2023)_ <br>
 Skills, tools, and knowledge needed to support and troubleshoot Apple devices inside an organization. Covers tools and services—including underlying technologies, troubleshooting, and system administration—used to support Mac, iPhone, and iPad users.
 <br><br>
 
 
 ## 🎤 Creative Work
     
-**Co-Owner/Photographer** @ [Dustin and Bree Photography](http://dustinandbree.com/) _(May 2017 - Present)_ <br>
+**Co-Owner** @ [Dustin and Bree Photography](http://dustinandbree.com/) _(May 2017 - Present)_ <br>
 Photography company with a focus on weddings, families, and couples
   - Assisted in [website](https://dustinandbree.com/) design
   - Maintains locally hosted ~50TB file server for daily production use
