@@ -1,6 +1,6 @@
 # Dustin Groh
 
-_Computer person with UX and design interest based in Indianapolis, IN_ <br>
+_Computer fanatic attracted to UX and design based in Indianapolis, IN_ <br>
 
 💬 [Email](mailto:dustingroh33@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dustingroh/) / [GitHub](https://github.com//)
 
