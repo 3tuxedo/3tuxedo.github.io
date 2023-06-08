@@ -25,36 +25,29 @@ Multi-campus non-denominational church with 7 campus buildings across the Indian
 
 ## 📌 Project Successes
 
-**Mobile Device Management (MDM)** using [Kandji](https://kandji.io/) _(March 2020 - Feb 2023)_<br>
-Began 
-  - Configured Apple DEP and Business Manager.
+**Mobile Device Management (MDM) Rollout** using [Kandji](https://kandji.io/) _(March 2020 - Feb 2023)_<br>
+Managed device configurations and updates in a 75% Apple device environment.
+  - Configured Apple DEP and Business Manager
   - Built and rolled out organizational standard machine using Kandji (Apple MDM) including
-    - removing Activation Lock
+    - removing Activation Lock to retain organizational ownership
     - using scripting to install printers 
-    - preinstalling software and removing barriers for newly onboarded staff members.
   - **_Technologies used:_** Kandji, Bash, 
   <br><br>
   
 **On-Prem Sharepoint to O365 Migration** @ [Traders Point Christian Church](https://tpcc.org/) _(Jul 2019 - Dec 2021)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  - **_Technologies used:_** Powershell, Office 365, 
+Migrated locally hosted file server for staff data to cloud provider
+  - Created project plan to move production files of 200 person staff 
+  - Supported and trained all staff during rollout
+  - Expanded Sharepoint capabilites across staff members
+  - **_Technologies used:_** Powershell, Sharepoint, Active Directory,
   <br><br>
 
 **Podcast Publishing Migration** @ [Traders Point Christian Church](https://tpcc.org/) _(Jul 2019 - Dec 2021)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
-
-**Microsoft Teams Room Rollout** @ [Traders Point Christian Church](https://tpcc.org/) _(Jul 2019 - Dec 2021)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
+Migrated hosting solution from AWS S3 to Captivate Podcasts
+  - Self-taught RSS feed editing
+  - Led project plan and cutover
+  - Expanded podcast reach by publishing to Apple Podcasts, Spotify, and Google Podcasts
+  - **_Technologies used:_** RSS, XML, AWS S3, Captivate Podcasts
   <br><br>
 
 
@@ -71,7 +64,7 @@ Skills, tools, and knowledge needed to support and troubleshoot Apple devices in
 Photography company with a focus on weddings, families, and couples.
   - Assisted in [website](https://dustinandbree.com/) design.
   - Maintains locally hosted ~50TB file server for daily production use.
-    <br><br>
+   <br><br>
 
 **Creator** @ ["Build Something With Me" Youtube Channel](https://www.youtube.com/channel/UCvNVONhb6X0vQL3VJRaUhRw) _(May 2020 - Present)_ 
 Showcasing custom keyboard builds.
@@ -85,10 +78,13 @@ Showcasing custom keyboard builds.
 
 **60 Credit Hours** in Computer Science<br>
 [Delaware County Community College](https://www.dccc.edu/) - Downingtown, Pennsylvania _(2012 - 2014)_
+
+**IT Leadership Residency Program** focused providing experience to young leaders<br>
+[Traders Point Leadership Residency](https://tpcc.org/leadership-residents) - Whitestown, Indiana _(2017 - 2018)_
  <br><br>
 
 
-##  Homelab Projects
+## ✌ Homelab Projects
 _This section is to showcase some of the ~~money i've wasted~~ work I've done in my personal [homelab](https://www.reddit.com/r/homelab)._
 
 **TrueNAS Server** 
