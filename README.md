@@ -28,10 +28,9 @@ Multi-campus non-denominational church with 7 campus buildings across the Indian
 **Mobile Device Management (MDM) Rollout** using [Kandji](https://kandji.io/) _(March 2020 - Feb 2023)_<br>
 Managed device configurations and updates in a 75% Apple device environment.
   - Configured Apple DEP and Business Manager
-  - Built and rolled out organizational standard machine using Kandji (Apple MDM) including
-    - removing Activation Lock to retain organizational ownership
-    - using scripting to install printers 
-  - **_Technologies used:_** Kandji, Bash, 
+  - Built and rolled out organizational standard machine including scripting printer install
+  - Deployed standard and custom apps through MDM 
+  - **_Technologies used:_** Kandji, Bash, Apple Configurator, 
   <br><br>
   
 **On-Prem Sharepoint to O365 Migration** @ [Traders Point Christian Church](https://tpcc.org/) _(Jul 2019 - Dec 2021)_ <br>
