@@ -17,7 +17,7 @@ Environmental consulting firm with 7 locations and 200+ employees across the Mid
 **IT Manager** @ [Traders Point Christian Church](https://tpcc.org/) _(June 2017 - Feb 2023)_ <br>
 Multi-campus non-denominational church with 7 campus buildings across the Indianapolis metro area
   - Led digital innovation initiative to replace tech stack
-  - Process engineered business outcomes with technical capabilities
+  - Process engineered technical capabilities to match business outcomes 
   - Built, supported, and documented systems for 200+ staff members
   - **_Technologies used:_** Office 365, Powershell, Azure AD, MDM, macOS/Windwos, Windows Server, Sharepoint/Onedrive, Atlassian Jira, Linux
 <br><br>
