@@ -16,8 +16,8 @@ Environmental consulting firm with 7 locations and 200+ employees across the Mid
 
 **IT Manager** @ [Traders Point Christian Church](https://tpcc.org/) _(June 2017 - Feb 2023)_ <br>
 Multi-campus non-denominational church with 7 campus buildings across the Indianapolis metro area (5th fastest growing church in America, 2017)
-  - Led digital innovation initiative to replace tech stack
-  - Process engineered technical capabilities to match business outcomes 
+  - Led digital innovation initiative to replace tech stack (network/server infrastructure, building interconnection)
+  - Led systems and support teams during time of high-growth
   - Built, supported, and documented systems for 200+ staff members
   - **_Technologies used:_** Office 365, Powershell, Azure AD, MDM, macOS/Windwos, Windows Server, Sharepoint/Onedrive, Atlassian Jira, Linux
 <br><br>
@@ -61,6 +61,7 @@ Migrated hosting solution from AWS S3 to Captivate Podcasts
 **IT Leadership Residency Program** focused providing experience to young leaders<br>
 [Traders Point Leadership Residency](https://tpcc.org/leadership-residents) - Whitestown, IN _(2017 - 2018)_
  <br><br>
+
 
 ## 🏆 Certifications
 
