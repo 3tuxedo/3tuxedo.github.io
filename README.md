@@ -1,6 +1,6 @@
 # Dustin Groh
 
-_Relationship-focused IT professional with high emotional intelligence and a knack for UX and design; based in Indianapolis, IN_ <br>
+_Relationship-focused IT professional + high emotional intelligence + a knack for UX and design; based in Indianapolis, IN_ <br>
 
 💬 [Email](mailto:dustingroh33@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dustingroh/)
 
