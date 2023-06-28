@@ -11,7 +11,7 @@ Environmental consulting firm with 7 locations and 200+ employees across the Mid
   - Built tech support structure
   - Designed improved machine deployment solution for remote workers using Microsoft Intune
   - Provided premiere support to local and remote users accessing ERP system
-  - **_Technologies used:_** Powershell, Azure AD, VPN, Microsoft Intune
+  - **_Technologies used:_** Powershell, Azure AD, VPN, Hyper-V, Microsoft Intune, Fortigate
 <br><br>
 
 **IT Manager** @ [Traders Point Christian Church](https://tpcc.org/) _(June 2017 - Feb 2023)_ <br>
