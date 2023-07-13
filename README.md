@@ -115,4 +115,4 @@ _Running Docker for containerization_
     - Automation
 
 **Proxmox Host**<br>
-_VMs RKE cluster, sandboxing, and testing_
+_VMs user for RKE cluster, sandboxing, and testing_
