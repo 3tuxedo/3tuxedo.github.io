@@ -109,10 +109,8 @@ _Running Docker for containerization_
     - Network-wide adblocking and custom DNS
 - [**Uptime Kuma**](https://uptime.kuma.pet/)
     - Application uptime and outage notifications
-- [**RKE**](https://www.rancher.com/products/rke)
-    - Lightweight Kubernetes distro
 - [**Ansible**](https://www.ansible.com/)
     - Automation
 
 **Proxmox Host**<br>
-_VMs user for RKE cluster, sandboxing, and testing_
+_VMs user for sandboxing and testing_
