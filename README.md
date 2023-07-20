@@ -101,6 +101,8 @@ _Router and Firewall_
 _Running Docker for containerization_
 -  [**Portainter**](https://www.portainer.io/)
     - GUI for Docker containers
+- **Nginx Proxy Manager**
+    - Reverse proxy for internal DNS
 -  **Unifi Controller**
     - Wifi analytics and control
 -  [**Homer Dashobard**](https://github.com/bastienwirtz/homer)
