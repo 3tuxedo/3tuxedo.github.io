@@ -94,14 +94,14 @@ _Network file server_
 
 **pfSense**<br>
 _Router and Firewall_
-- Tailscale integration for remote access
+- [Tailscale](https://tailscale.com) integration for remote access
 - QoS configuration for network traffic shaping
 
 **Ubuntu Server**<br>
 _Running Docker for containerization_
 -  [**Portainter**](https://www.portainer.io/)
     - GUI for Docker containers
-- **Nginx Proxy Manager**
+- [**Nginx Proxy Manager**](https://nginxproxymanager.com/)
     - Reverse proxy for internal DNS
 -  **Unifi Controller**
     - Wifi analytics and control
@@ -111,6 +111,8 @@ _Running Docker for containerization_
     - Network-wide adblocking and custom DNS
 - [**Uptime Kuma**](https://uptime.kuma.pet/)
     - Application uptime and outage notifications
+- [**Speedtest Tracker**](https://github.com/henrywhitaker3/Speedtest-Tracker)
+    - internet speed monitor
 - [**Ansible**](https://www.ansible.com/)
     - Automation
 
