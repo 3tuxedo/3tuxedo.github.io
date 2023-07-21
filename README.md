@@ -2,7 +2,7 @@
 
 _Relationship-focused IT professional + high emotional intelligence + a knack for UX and design; based in Indianapolis, IN_ <br>
 
-💬 [Email](mailto:dustingroh33@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dustingroh/) /[Website](https://theroadtohomelab.wordpress.com/)
+💬 [Email](mailto:dustingroh33@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dustingroh/) / [Website](https://theroadtohomelab.wordpress.com/)
 
 ## 👩🏼‍💻 Experience
 
