@@ -84,41 +84,35 @@ Showcasing and guiding through custom mechanical keyboard builds
 
 
 ## ✌ Homelab Projects
-_This section is to showcase some of the ~~money I've wasted~~ work I've done in my personal homelab._
-_I self-host a blog all about homelabs using Ghost - check it out [here](http://roadtohomelab.blog/)._
+_This section is to showcase some of the ~~money I've wasted~~ work I've done in my personal homelab._<br>
+_I self-host a blog all about homelabs using Ghost called Road to Homelab - check it out [here](http://roadtohomelab.blog/)._
 
 **TrueNAS**<br>
 _Network file server_
+- Maintains business-critcal media file storage for photography business of ~12TB
 - Maintains Plex library of ~7 TB
-- Maintains business-critcal media file storage for photography business of ~75TB
 - API integration for automatic backups to Backblaze B2
 
 **pfSense**<br>
 _Router and Firewall_
 - [Tailscale](https://tailscale.com) integration for remote access
-- QoS configuration for network traffic shaping
 
 **Ubuntu Server**<br>
 _Running Docker for containerization_
--  [**Portainer**](https://www.portainer.io/)
-    - GUI for Docker containers
-- [**Nginx Proxy Manager**](https://nginxproxymanager.com/)
-    - Reverse proxy for internal DNS
--  **Unifi Controller**
-    - Wifi analytics and control
--  [**Homer Dashobard**](https://github.com/bastienwirtz/homer)
-    -  Custom dashboard for homelab
-- [**Pi-hole**](https://pi-hole.net/)
-    - Network-wide adblocking and custom DNS
-- [**Uptime Kuma**](https://uptime.kuma.pet/)
-    - Application uptime and outage notifications
-- [**Speedtest Tracker**](https://github.com/henrywhitaker3/Speedtest-Tracker)
-    - internet speed monitor
-- [**Ansible**](https://www.ansible.com/)
-    - Automation
+- [**Portainer**](https://www.portainer.io/) - GUI for Docker containers
+- [**Pi-hole**](https://pi-hole.net/) - Network-wide adblocking and custom DNS
+- [**Uptime Kuma**](https://uptime.kuma.pet/) - Application uptime and outage notifications
+- [**Plex**](plex.tv) - Media collection
+- [**Tautulli**](https://tautulli.com/) - Plex analytics
+- [**Homepage Dashobard**](https://github.com/benphelps/homepage) -  Custom dashboard for homelab
+- [**Unifi Controller**](https://help.ui.com/hc/en-us/articles/360012282453-Self-Hosting-a-UniFi-Network-Server) - Wifi analytics and control
+- [**Speedtest Tracker**](https://github.com/henrywhitaker3/Speedtest-Tracker) -  Internet speed test analytics
+- [**Nginx Proxy Manager**](https://nginxproxymanager.com/) - Reverse proxy
+
 
 **Proxmox Host**<br>
 _VMs user for sandboxing and testing_
+- [**Ansible**](https://www.ansible.com/) - Ubuntu automation
 
 **VPS**<br>
 _Linode running Tailscale and Uptime Kuma for monitoring my home services via the cloud_
