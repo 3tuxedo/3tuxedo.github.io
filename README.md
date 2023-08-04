@@ -2,7 +2,7 @@
 
 _Relationship-focused IT professional + high emotional intelligence + a knack for UX and design; based in Indianapolis, IN_ <br>
 
-💬 [Email](mailto:dustingroh33@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dustingroh/) / [Website](https://theroadtohomelab.wordpress.com/)
+💬 [Email](mailto:dustingroh33@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dustingroh/) / [Blog](https://roadtohomelab.blog)
 
 ## 👩🏼‍💻 Experience
 
@@ -100,7 +100,7 @@ _Router and Firewall_
 
 **Ubuntu Server**<br>
 _Running Docker for containerization_
--  [**Portainter**](https://www.portainer.io/)
+-  [**Portainer**](https://www.portainer.io/)
     - GUI for Docker containers
 - [**Nginx Proxy Manager**](https://nginxproxymanager.com/)
     - Reverse proxy for internal DNS
@@ -119,3 +119,6 @@ _Running Docker for containerization_
 
 **Proxmox Host**<br>
 _VMs user for sandboxing and testing_
+
+**VPS**<br>
+_Linode running Tailscale and Uptime Kuma for monitoring my home services via the cloud_
