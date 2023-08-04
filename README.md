@@ -84,7 +84,7 @@ Showcasing and guiding through custom mechanical keyboard builds
 
 
 ## ✌ Homelab Projects
-_This section is to showcase some of the ~~money I've wasted~~ work I've done in my personal [homelab](https://www.reddit.com/r/homelab)._
+_This section is to showcase some of the ~~money I've wasted~~ work I've done in my personal homelab. Check out the blog I have dedicated to it [here](https://theroadtohomelab.wordpress.com/)._
 
 **TrueNAS**<br>
 _Network file server_
