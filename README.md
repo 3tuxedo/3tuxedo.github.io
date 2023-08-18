@@ -106,6 +106,7 @@ _Running Docker on Ubuntu for containerization_
 - [**Unifi Controller**](https://help.ui.com/hc/en-us/articles/360012282453-Self-Hosting-a-UniFi-Network-Server) - Wifi analytics and control
 - [**Speedtest Tracker**](https://github.com/henrywhitaker3/Speedtest-Tracker) -  Internet speed test analytics
 - [**Nginx Proxy Manager**](https://nginxproxymanager.com/) - Reverse proxy
+- [**Dozzle**](https://dozzle.dev/) - Docker log viewer
 
 
 **Other VMs**<br>
