@@ -65,7 +65,7 @@ Migrated hosting solution from AWS S3 to Captivate Podcasts
 
 ## 🏆 Certifications
 
-**Apple Certified Support Professional** @ [Apple Training](https://training.apple.com/it) _(Expected July 2023)_ <br>
+**Apple Certified Support Professional** @ [Apple Training](https://training.apple.com/it) _(Expected September 2023)_ <br>
 Skills, tools, and knowledge needed to support and troubleshoot Apple devices inside an organization. Covers tools and services—including underlying technologies, troubleshooting, and system administration—used to support Mac, iPhone, and iPad users.
 <br><br>
 
