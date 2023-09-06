@@ -65,7 +65,7 @@ Migrated hosting solution from AWS S3 to Captivate Podcasts
 
 ## 🏆 Certifications
 
-**Certified Kubernetes Administrator** @ [Linux Foundation]([https://training.apple.com/it](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)) _(Expected October 2023)_ <br>
+**Certified Kubernetes Administrator (CKA)** @ [Linux Foundation]([https://training.apple.com/it](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)) _(Expected October 2023)_ <br>
 The Certified Kubernetes Administrator (CKA) program provides assurance that CKAs have the skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators.
 <br><br>
 
