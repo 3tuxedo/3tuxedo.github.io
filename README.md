@@ -67,7 +67,7 @@ Migrated hosting solution from AWS S3 to Captivate Podcasts
 
 **Certified Kubernetes Administrator (CKA)** @ [Linux Foundation](https://www.cncf.io/certification/cka/) _(October 2023)_ <br>
 The Certified Kubernetes Administrator (CKA) program provides assurance that CKAs have the skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators.
-<br><br>
+<br>
 
 **Apple Certified Support Professional** @ [Apple](https://training.apple.com/it) _(July 2023)_ <br>
 This course introduces you to the skills, tools, and knowledge you need to support and troubleshoot Apple devices in a large organization as a level 1 or 2 help desk professional.
