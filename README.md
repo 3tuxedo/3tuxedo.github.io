@@ -6,7 +6,8 @@ _Relationship-focused IT professional + high emotional intelligence + a knack fo
 
 ## 👩🏼‍💻 Experience
 
-**Premium Support Engineer** @ [SUSE](https://suse.com/) _(October 2023 - Present)_ 
+**Premium Support Engineer** @ [SUSE](https://suse.com/) _(October 2023 - Present)_ <br>
+Open source software company specializing in Linux server and Kubernetes software
   - Supports dedicated customer as the subject matter expert for SUSE Rancher, RKE1, RKE2, and other kubernetes-related software.
   - Troubleshoots and provides resolution or workaround to customer’s technical issues in timely fashion.
   - Shares knowledge by writing technical documents and pro-actively sending helpful technical information to customer with goal of solving problems before they arise.
