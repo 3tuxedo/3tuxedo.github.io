@@ -6,6 +6,11 @@ _Relationship-focused IT professional + high emotional intelligence + a knack fo
 
 ## 👩🏼‍💻 Experience
 
+**Premium Support Engineer** @ [SUSE](https://suse.com/) _(October 2023 - Present)_ 
+  - Supports dedicated customer as the subject matter expert for SUSE Rancher, RKE1, RKE2, and other kubernetes-related software.
+  - Troubleshoots and provides resolution or workaround to customer’s technical issues in timely fashion.
+  - Shares knowledge by writing technical documents and pro-actively sending helpful technical information to customer with goal of solving problems before they arise.
+
 **IT Manager** @ [August Mack Environmental Inc.](https://augustmack.com/) _(Feb 2023 - Present)_ <br>
 Environmental consulting firm with 7 locations and 200+ employees across the Midwest and Northeast USA
   - Built tech support structure
@@ -112,8 +117,10 @@ _Running Docker on Ubuntu for containerization_
 - [**Nginx Proxy Manager**](https://nginxproxymanager.com/) - Reverse proxy
 - [**Dozzle**](https://dozzle.dev/) - Docker log viewer
 
+**Kubernetes**<br>
+_Small 3-node Lenovo Thinkcentre cluster running RKE2_
 
-**Other VMs**<br>
+**Other**<br>
 _VMs used for sandboxing and testing_
 - [**Kali Linux**](https://www.kali.org/) - Ethical hacking playground
 - [**Ansible**](https://www.ansible.com/) - Ubuntu automation
