@@ -10,6 +10,9 @@ _Relationship-focused IT professional + high emotional intelligence + a knack fo
   - Supports dedicated customer as the subject matter expert for SUSE Rancher, RKE1, RKE2, and other kubernetes-related software.
   - Troubleshoots and provides resolution or workaround to customer’s technical issues in timely fashion.
   - Shares knowledge by writing technical documents and pro-actively sending helpful technical information to customer with goal of solving problems before they arise.
+  - **_Technologies used:_** Kubernetes (RKE, GKE, AKS, EKS), containerization, Docker, Linux, Rancher
+<br><br>
+
 
 **IT Manager** @ [August Mack Environmental Inc.](https://augustmack.com/) _(Feb 2023 - Present)_ <br>
 Environmental consulting firm with 7 locations and 200+ employees across the Midwest and Northeast USA
