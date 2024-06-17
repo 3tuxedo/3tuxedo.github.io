@@ -1,6 +1,6 @@
 # Dustin Groh
 
-_Relationship-focused IT professional + high emotional intelligence + a knack for UX and design; based in Indianapolis, IN_ <br>
+_Relationship-focused support professional + high emotional intelligence + a knack for UX and design; based in Indianapolis, IN_ <br>
 
 💬 [Email](mailto:dustingroh33@gmail.com) / [LinkedIn](https://www.linkedin.com/in/dustingroh/) / [Blog](https://roadtohomelab.blog)
 
@@ -11,11 +11,10 @@ Open source software company specializing in Linux server and Kubernetes softwar
   - Supports dedicated customer as the subject matter expert for SUSE Rancher, RKE1, RKE2, and other kubernetes-related software.
   - Troubleshoots and provides resolution or workaround to customer’s technical issues in timely fashion.
   - Shares knowledge by writing technical documents and pro-actively sending helpful technical information to customer with goal of solving problems before they arise.
-  - **_Technologies used:_** Kubernetes (RKE, GKE, AKS, EKS), containerization, Docker, Linux, Rancher
+  - **_Technologies used:_** Kubernetes (RKE, RKE2, GKE, AKS, EKS), containerization, Docker, Linux, SUSE Rancher, 
 <br><br>
 
-
-**IT Manager** @ [August Mack Environmental Inc.](https://augustmack.com/) _(Feb 2023 - Present)_ <br>
+**IT Manager** @ [August Mack Environmental Inc.](https://augustmack.com/) _(Feb - Oct 2023)_ <br>
 Environmental consulting firm with 7 locations and 200+ employees across the Midwest and Northeast USA
   - Built tech support structure
   - Designed improved machine deployment solution for remote workers using Microsoft Intune
@@ -30,34 +29,6 @@ Multi-campus non-denominational church with 7 campus buildings across the Indian
   - Built, supported, and documented systems for 200+ staff members
   - **_Technologies used:_** Office 365, Powershell, Azure AD, MDM, macOS/Windwos, Windows Server, Sharepoint/Onedrive, Atlassian Jira, Linux
 <br><br>
-
-
-## 📌 Project Successes
-
-**Mobile Device Management (MDM) Rollout** using [Kandji](https://kandji.io/) _(March 2020 - June 2022)_<br>
-Managed device configurations and updates in a 75% Apple device environment
-  - Configured Apple DEP and Business Manager
-  - Built and rolled out organizational standard machine including scripting printer install
-  - Deployed standard and custom apps through MDM 
-  - **_Technologies used:_** Kandji, Bash, Apple Configurator
-  <br><br>
-  
-**On-Prem Sharepoint to O365 Migration** @ [Traders Point Christian Church](https://tpcc.org/) _(Jul 2019 - Dec 2021)_ <br>
-Migrated locally hosted file server for staff data to cloud provider
-  - Created project plan to move production files of 200 person staff 
-  - Supported and trained all staff during rollout
-  - Expanded Sharepoint capabilites across staff members
-  - **_Technologies used:_** Powershell, Sharepoint, Active Directory
-  <br><br>
-
-**Podcast Publishing Migration** @ [Traders Point Christian Church](https://tpcc.org/) _(March 2021 - July 2022)_ <br>
-Migrated hosting solution from AWS S3 to Captivate Podcasts
-  - Self-taught RSS feed editing
-  - Led project plan and cutover
-  - Expanded podcast reach by publishing to Apple Podcasts, Spotify, and Google Podcasts
-  - **_Technologies used:_** RSS, XML, AWS S3, Captivate Podcasts
-  <br><br>
-
 
 ## 👩🏼‍🎓 Education
 
@@ -95,14 +66,15 @@ Photography company with a focus on weddings, families, and couples
 Showcasing and guiding through custom mechanical keyboard builds
 <br><br>
 
+## ✌ Projects
+### **Homelab Blog**<br>
+_I self-host a blog all about infrastructure and homelabs using [Ghost](https://ghost.org/) called Road to Homelab - check it out [here](http://roadtohomelab.blog/)._<br>
 
-## ✌ Homelab Projects
-_I self-host a blog all about infrastructure and homelabs using [Ghost](https://ghost.org/) called Road to Homelab - check it out [here](http://roadtohomelab.blog/)._
-
+### **Personal Homelab**
 **TrueNAS**<br>
 _Network file server_
 - Maintains business-critcal media file storage for photography business of ~12TB
-- API integration for automatic backups to Backblaze B2
+- API integration for automatic backups to Amazon S3 Deep Glacier
 
 **pfSense**<br>
 _Router and Firewall_
@@ -119,15 +91,9 @@ _Running Docker on Ubuntu for containerization_
 - [**Unifi Controller**](https://help.ui.com/hc/en-us/articles/360012282453-Self-Hosting-a-UniFi-Network-Server) - Wifi analytics and control
 - [**Speedtest Tracker**](https://github.com/henrywhitaker3/Speedtest-Tracker) -  Internet speed test analytics
 - [**Nginx Proxy Manager**](https://nginxproxymanager.com/) - Reverse proxy
-- [**Dozzle**](https://dozzle.dev/) - Docker log viewer
-
-**Kubernetes**<br>
-_Small 3-node Lenovo Thinkcentre cluster running RKE2_
-
-**Other**<br>
-_VMs used for sandboxing and testing_
-- [**Kali Linux**](https://www.kali.org/) - Ethical hacking playground
 - [**Ansible**](https://www.ansible.com/) - Ubuntu automation
 
-**VPS**<br>
-_Linode running Tailscale and Uptime Kuma for monitoring my home services via the cloud_
+**Kubernetes**<br>
+- 3 node SUSE Rancher 2.8.3 cluster running RKE on RHEL 7.9 (for customer testing)
+- 3 node SUSE Rancher 2.7.9 cluster running RKE on RHEL 7.9 (for customer testing)
+
