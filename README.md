@@ -49,6 +49,8 @@ Multi-campus non-denominational church with 7 campus buildings across the Indian
 The Certified Kubernetes Administrator (CKA) program provides assurance that CKAs have the skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators.
 <br>
 
+**SUSE Certified Deployment Specialist (SCDS) in Rancher Manager** @ [SUSE](https://www.suse.com/training/exam/scds_rancher_mgr2_7_8/) _(June 2024)_ <br>A professional certification designed for DevOps and Deployment Engineers, System Administrators, and other IT professionals who want to demonstrate their expertise in deploying, backing up, restoring, and upgrading Rancher Manager.
+
 **Apple Certified Support Professional** @ [Apple](https://training.apple.com/it) _(July 2023)_ <br>
 This course introduces you to the skills, tools, and knowledge you need to support and troubleshoot Apple devices in a large organization as a level 1 or 2 help desk professional.
 <br><br>
